@@ -1,4 +1,4 @@
-package me.kaik.javapoo;
+package me.kaik.javapoo.Class;
 
 class Second {
     public static void main(String[] args) {

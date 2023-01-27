@@ -1,4 +1,4 @@
-package me.kaik.javapoo;
+package me.kaik.javapoo.Class;
 
 public class Main {
     final String name = "Kaik";
