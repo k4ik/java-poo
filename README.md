@@ -1,1 +1,1 @@
-# POO
+# Java Class
